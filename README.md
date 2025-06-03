@@ -7,12 +7,12 @@
 
 ## Tecnologias que uso no meu dia a dia de estudos
 
-<div style="display: inline-block"> <br/>
-  <img align="center" alt="html5" src"https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img align="center" alt="React" src"https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
-  <img align="center" alt="javascript" src"https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img align="center" alt="typescript" src"https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img align="center" alt="vuejs" src"https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-</div> <br/>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/PedroAntoniodev)
+[![react](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://github.com/PedroAntoniodev)
+[![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/PedroAntoniodev)
+[![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/PedroAntoniodev)
+[![vuejs](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://github.com/PedroAntoniodev)
+[![python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/PedroAntoniodev)
+
 
 Estudante na área de programação, em busca de me tornar um desenvolvedor fullstack, sempre buscando aprender e melhorar a cada dia.
